@@ -1,0 +1,12 @@
+/home/miguel/CLionProjects/CS141HW4/cmake-build-debug/CS141HW4
+Union of A and B :
+{a,b,c,d,e,f,g,h}
+Intersection of A and B :
+{a,b,c,d,e}
+Set A minus set B :
+{}
+Set B minus set A :
+{f,g,h}
+
+Process finished with exit code 0
+
